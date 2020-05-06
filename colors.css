@@ -1,0 +1,19 @@
+body 
+		{
+			background-color: yellow;
+		}
+		h1
+		{
+			background-color: rgba(200,100,175);
+			color: green;
+			background-color: hsl(380,100%,50%);
+		}
+		h3
+		{
+			background-color: #1100ff;
+			color:pink;
+			background-color: hsla(240,50%,0%,0.3);
+		}
+		p {
+			color: red;
+		}
